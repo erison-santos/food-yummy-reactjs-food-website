@@ -8,7 +8,7 @@ export default function Services() {
   return (
     <Section id="services">
       <div className="title">
-        <h1 className="yellow">What we do?</h1>
+        <h1 className="yellow">Nosso Atendimento</h1>
         <p>
           Lorem ipsum dolor sit amet consectetur, adipisicing elit. Tenetur,
           incidunt magnam labore ipsam vero minima maxime doloribus dolores ipsa

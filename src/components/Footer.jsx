@@ -32,7 +32,7 @@ export default function Footer() {
         </div>
         <div className="about container">
           <div className="title">
-            <h3>About Us</h3>
+            <h3>Nosso Objetivo</h3>
           </div>
           <p>
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Ipsam,
@@ -42,17 +42,17 @@ export default function Footer() {
         </div>
         <div className="contact container">
           <div className="title">
-            <h3>Contact Us</h3>
+            <h3>Fale com a gente</h3>
           </div>
-          <p>+91 1231231231</p>
-          <p>foodyummy@gmail.com</p>
-          <p>@foodyummy</p>
-          <p>412 Street, Ground Floor, India</p>
+          <p>(92) 91234-5678</p>
+          <p>sacoleiro@cardapio.com</p>
+          <p>@cardapio.com</p>
+          <p>R. Igarapé Araçá, 44</p>
         </div>
       </Section>
       <LowerFooter className="lower__footer">
         <h2>
-          Copyright &copy; 2021 <span>Food Yummy</span>
+          O Sacoleiro &copy; 2022 <span>FEITO COM CARINHO ♥</span>
         </h2>
       </LowerFooter>
     </div>

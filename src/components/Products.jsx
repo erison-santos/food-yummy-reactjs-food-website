@@ -33,7 +33,7 @@ export default function Products() {
     <Section id="products">
       <div className="title">
         <h1>
-          <span>Favourite</span> All the time!
+          <span>Delicioso!</span> É só pedir.
         </h1>
       </div>
       <div className="products">

@@ -6,7 +6,7 @@ export default function Newsletter() {
     <Section id="newsletter">
       <div className="title">
         <h1>
-          <span>Subscribe</span> Newsletter
+          <span>Inscreva-se na</span> Newsletter
         </h1>
         <p>
           Lorem ipsum, dolor sit amet consectetur adipisicing elit. Aliquid quas
@@ -15,8 +15,8 @@ export default function Newsletter() {
         </p>
       </div>
       <div className="container">
-        <input type="text" placeholder="Search for food ..." />
-        <button>Search</button>
+        <input type="text" placeholder="Digite seu número ..." />
+        <button>Cadastrar</button>
       </div>
     </Section>
   );

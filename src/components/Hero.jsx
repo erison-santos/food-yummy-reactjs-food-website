@@ -12,8 +12,8 @@ export default function Hero() {
         <div className="sale">
           <img src={heroDesign} alt="" />
           <h1>
-            BIG SALE
-            <span>50% OFF</span>
+            PROMOÇÃO
+            <span>30% OFF</span>
           </h1>
         </div>
         <div className="info">
@@ -22,7 +22,7 @@ export default function Hero() {
             Lorem ipsum dolor sit amet consectetur adipisicing elit. Magnam
             aspernatur itaque, eius quia voluptas numquam!
           </em>
-          <button>ORDER NOW</button>
+          <button>PEÇA AGORA!</button>
         </div>
       </div>
     </Section>
